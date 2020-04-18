@@ -1,0 +1,11 @@
+@font-face{
+    font-family: Arvo;
+    src: url(../fonts/Arvo-Regular.ttf);
+    src: url(../fonts/Arvo.woff);
+}
+body{
+    font-family: Arvo;
+}
+.height{
+    min-height: 100vh;
+}
